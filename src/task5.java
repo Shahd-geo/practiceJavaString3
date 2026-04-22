@@ -5,6 +5,11 @@ public class task5 {
 
     public static Integer countTriple(String str){
       int count3=0;
+      for (int i =0;i<str.length()-1;i++){
+          if (str.charAt(i)==str.charAt(i+1)&&str.charAt(i)==str.charAt(i+2)){
+
+          }
+      }
 
     }
 
