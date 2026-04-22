@@ -1,6 +1,7 @@
 public class maxblook {
     static void main(String[] args) {
         String str = "hoopla";
+        System.out.println(max(str));
 
     }
 
@@ -11,7 +12,7 @@ public class maxblook {
             if (i < str.length() - 1 && str.charAt(i) == str.charAt(i + 1)) {
                 block++;
             } else {
-                if (block < max) {
+                if (block >max) {
                     max = block;
                 }
                 block = 1;
@@ -19,8 +20,5 @@ public class maxblook {
 
         }
         return max;
-    }
-}
-
     }
 }
