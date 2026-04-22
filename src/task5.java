@@ -3,4 +3,8 @@ public class task5 {
 
     }
 
+    public static Integer countTriple(String str){
+
+    }
+
 }
