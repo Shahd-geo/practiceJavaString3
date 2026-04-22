@@ -8,6 +8,10 @@ public class maxblook {
         for (int i =0 ;i<str.length();i++){
             if (i<str.length()-1 &&str.charAt(i)==str.charAt(i+1)){
                 block++;
+            }else {
+                if (block<max){
+                    max=block;
+                }
             }
         }
 
