@@ -4,7 +4,7 @@ public class Task4 {
     }
     public static Boolean gHappy(String str){
         for (int i = 0 ; i<str.length();i++){
-            if (str.ch)
+            if (str.charAt(i)==)'g'&&str.charAt(i-1)=='g'
         }
 
     }
