@@ -1,6 +1,7 @@
 public class sumDigits {
     static void main(String[] args) {
         String str="aa1bc2d3";
+        System.out.println(sumDigits(str));
 
     }
 
