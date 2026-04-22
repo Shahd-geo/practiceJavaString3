@@ -6,7 +6,7 @@ public class sameEnd {
         int leng=str.length();
         String result="";
         for (int i = 0 ; i>=str.length()/2;i++){
-            if ()
+            String start=str.substring(0,i);
 
         }
 
