@@ -7,6 +7,8 @@ public class Task8 {
         for (int  i=0 ; i<str.length();i++){
             if (str.charAt(i)==str.charAt(str.length()-1)){
                 result+=str.charAt(i);
+            }else {
+                break;
             }
         }
 
