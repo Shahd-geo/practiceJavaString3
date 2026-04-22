@@ -3,7 +3,7 @@ public class maxblook {
 
     }
     public static Integer max(String str){
-        String num=0;
+        String block=1;
         int max =0;
 
     }
