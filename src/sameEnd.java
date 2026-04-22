@@ -9,6 +9,8 @@ public class sameEnd {
             String start=str.substring(0,i);
             String end = str.substring(leng-i);
             if (start.equals(end)){
+                result=start;
+            }
 
         }
 
