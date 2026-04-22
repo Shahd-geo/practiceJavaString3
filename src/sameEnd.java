@@ -1,6 +1,7 @@
 public class sameEnd {
     static void main(String[] args) {
         String str="abXYab";
+        System.out.println(sameEnds(str));
 
     }
     public static String sameEnds(String str){
