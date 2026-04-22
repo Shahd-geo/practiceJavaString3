@@ -11,6 +11,8 @@ public class sumDigits {
             }
         }
 
+        return count;
+
     }
 
 }
