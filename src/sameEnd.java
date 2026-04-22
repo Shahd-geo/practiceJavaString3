@@ -13,6 +13,7 @@ public class sameEnd {
             }
 
         }
+        return result;
 
     }
 }
