@@ -3,8 +3,10 @@ public class maxblook {
 
     }
     public static Integer max(String str){
-        String block=1;
+        int block=1;
         int max =0;
+        for (int i =0 ;i<str.length();i++){
+        }
 
     }
 }
