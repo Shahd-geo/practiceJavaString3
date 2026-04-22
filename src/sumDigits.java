@@ -3,4 +3,8 @@ public class sumDigits {
 
     }
 
+    public static Integer sumDigits(String str){
+
+    }
+
 }
