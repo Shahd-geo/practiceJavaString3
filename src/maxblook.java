@@ -12,6 +12,7 @@ public class maxblook {
                 if (block<max){
                     max=block;
                 }
+                block=1;
             }
         }
 
