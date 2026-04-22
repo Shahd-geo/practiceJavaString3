@@ -4,6 +4,7 @@ public class maxblook {
     }
     public static Integer max(String str){
         String num=0;
+        int max =0;
 
     }
 }
